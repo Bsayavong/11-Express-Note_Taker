@@ -29,6 +29,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Mock-Up
 
+[Click to Deploy App on Heroku](https://express-note-tak3r.herokuapp.com/)
+
 ![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./assets/Note%20Taker.png)
 
 ![my screenshot](./assets/Note%20Taker%20Demo.png)
@@ -61,4 +63,4 @@ bksayavong@gmail.com
 
 ## Credits
 ***
-I would like to credit https://devcenter.heroku.com/articles/git for the commands to deploy into Heroku and displaying my app on their platform. Also,this week's activities and lectures has been the most challenging by far as it briefly covers Express JS and how it can create and maintain robust servers.
+I would like to credit https://devcenter.heroku.com/articles/git for the commands to deploy into Heroku and displaying my app on their platform. Also, this week's activities and lectures has been the most challenging by far as it briefly covers Express JS and how it can create and maintain robust servers.
